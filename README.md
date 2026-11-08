@@ -6,3 +6,7 @@ This repository is for my DS230 course practice.
 - Learn Java programming
 - Understand Object Oriented Programming
 - Practice writing code
+## Practical Progress
+- Successfully cloned the repository.
+- Configured local Git environment.
+- Practiced Git status.
